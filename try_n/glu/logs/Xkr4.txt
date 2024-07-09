@@ -1,0 +1,94 @@
+Loading required package: dplyr
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Attaching SeuratObject
+Loading required package: rngtools
+Loading required package: iterators
+Loading required package: parallel
+
+Attaching package: ‘igraph’
+
+The following objects are masked from ‘package:dplyr’:
+
+    as_data_frame, groups, union
+
+The following objects are masked from ‘package:stats’:
+
+    decompose, spectrum
+
+The following object is masked from ‘package:base’:
+
+    union
+
+Loading required package: ggplot2
+[1] "Xkr4"
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.1381589
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.1561287
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.1804865
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.3756039
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4300404
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4258481
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4298127
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4309632
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4309251
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4309761
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4310381
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4308139
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4306752
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4301919
+[1] "Xkr4"
+[1] "Before running optim..."
+[1] "After running optim..."
+[1] 0.4301894
+Time difference of 4.906937 mins
