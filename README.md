@@ -29,3 +29,17 @@ n: balance between local and global expression continuity, controls how similar 
 Lambda: balance the two terms in the objective function.
 
 Some example code scripts are included in this repo. 
+
+**Example run:**  
+The file run.astro.R is an example of how to evaluate the method. 
+
+To run, three inputs in rds formats are needed:
+
+1. The gold standard cell-type-specific gene expression (spot by gene matrix, one for each cell type)
+2. Coordinates of all spots (rows are spots, two columns are x and y coordinates)
+3. Simulated spatial data (spot by gene matrix)
+
+In the run, you can specify genes by setting gene_of_choice.
+
+At the end, the file outputs correlation between predicted cell-type-specific expression and the gold standard, as well as the predicted cell-type-specific expression itself. 
+
